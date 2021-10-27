@@ -7,7 +7,7 @@
 		"vscode": "^1.61.0"
 	},
 	"categories": [
-		"Other"
+		"Notebooks"
 	],
 	"activationEvents": [
         "onCommand:Adventurenote.helloWorld"
